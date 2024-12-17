@@ -1,1 +1,1 @@
-# php_mysql-code
+Develop the project using PHP for backend logic, MySQL for database management, and RESTful APIs for communication. Design the frontend using HTML, CSS, and JavaScript to ensure a dynamic and responsive user interface.
